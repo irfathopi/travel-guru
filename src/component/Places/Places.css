@@ -1,0 +1,44 @@
+.PlaceCard{
+    float : right ;
+    margin-top: 80px;
+    background-position: center center;
+    background-size: cover;
+}
+.placePic{
+    
+    height: 250px;
+    width : 150px;
+    float : left;
+    margin-left: 30px;
+    margin-right: 10px;
+    border:none;
+    background-position: center center;
+    background-size: 100% 100%;
+    border-radius: 10px;
+  
+    
+}
+.placePic style{
+    background-size: cover;
+}
+.placePic:hover{
+    border: 3px solid yellow;
+    transition: all .2s;
+    
+}
+.placePic h4{
+    color : white;
+    margin-top:150px;
+    font-size:20px;
+    margin-left: 10px;
+
+    
+}
+.show {
+    display:none
+}
+.PlaceCard button{
+    margin-left:10px;
+    font-size: 10px;
+    
+}

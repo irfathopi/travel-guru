@@ -1,0 +1,21 @@
+h1{
+    color:white;
+}
+p{
+    color:#ced4da;
+}
+.SreemangleDetails{
+    width: 350px;
+    margin-left: 80px;
+    margin-top: 100px;
+    float:left;
+    
+}
+.FixDateSrimangal {
+    float:left;
+    margin-top:100px;
+    margin-left:150px;
+}
+Button{
+    margin-top:20px;
+}

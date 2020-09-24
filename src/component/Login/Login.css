@@ -1,0 +1,14 @@
+.LoginBtn{
+    margin-top:80px;
+    margin-bottom: 10px;
+    font-size:15px;
+}
+.FbBtn{
+    width:30%;
+    margin: 0 auto;
+    font-size: 15px;
+    color: yellow;
+    border: 1px solid yellow;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
